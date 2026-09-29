@@ -1,0 +1,6 @@
+{
+  "name": "PrimeHaven Real Estate & Property Management Platform",
+  "description": "Enterprise-grade real estate platform and CRM for buying, renting, listing properties, scheduling viewings, comparing listings, and managing agents, leads, and housing developments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
